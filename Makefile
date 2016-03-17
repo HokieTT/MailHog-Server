@@ -12,7 +12,7 @@ fmt:
 	go fmt ./...
 
 deps:
-	go get github.com/mailhog/MailHog-Server
+	go get github.com/HokieTT/MailHog-Server
 	go get github.com/mailhog/MailHog-UI
 	go get github.com/mailhog/MailHog/config
 	go get github.com/mailhog/http

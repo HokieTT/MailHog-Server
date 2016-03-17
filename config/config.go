@@ -7,9 +7,9 @@ import (
 	"log"
 
 	"github.com/ian-kent/envconf"
-	"github.com/mailhog/MailHog-Server/monkey"
+	"github.com/HokieTT/MailHog-Server/monkey"
 	"github.com/mailhog/data"
-	"github.com/mailhog/storage"
+	"github.com/HokieTT/storage"
 )
 
 func DefaultConfig() *Config {
